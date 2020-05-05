@@ -1,2 +1,2 @@
 # Web Scraping
-Go to <span style="color:green">SPIDERS</span> folder to find the spider.
+Go to <a href="https://github.com/harshvardhan-anand/Web-Scraping/tree/master/SPIDERS"><strong>SPIDERS</strong></a> folder to find the spider.

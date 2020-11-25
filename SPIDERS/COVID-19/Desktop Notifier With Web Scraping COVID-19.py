@@ -26,7 +26,7 @@ html
 # In[176]:
 
 
-obj = bs(html, features="lxml")
+obj = bs(html)
 
 
 # In[177]:
